@@ -1,0 +1,10 @@
+[http]
+    proxy = http://172.17.9.9:80
+
+[https]
+    proxy = https://172.17.9.9:443
+
+
+
+
+
